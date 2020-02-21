@@ -1,0 +1,3 @@
+wheel
+ufal.udpipe
+nltk
